@@ -58,7 +58,9 @@ To set up the project, include the following dependencies in your pom.xml file:
 
 PROJECT STRUCTURE:
 
-The script is structured into one main class AmazonTest where all the actions and interactions are defined.
+The script is structured into  main class AmazonTest where all the actions and interactions are called [ This is the class to start running the task],
+
+and other classes where the actions and methods are defined in order to make the code more organized and clean.
 
 KEY SECTIONS:
 
